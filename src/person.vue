@@ -1,6 +1,6 @@
 <template>
   <span>
-    <figure>
+    <figure >
       <img :src="person.picture.medium" alt="">
     </figure>
   {{person.name.first}}
